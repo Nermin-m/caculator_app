@@ -1,0 +1,22 @@
+.keys{
+width: 54px;
+    height: 54px;
+    padding: 5px;
+    border-radius: 50px;
+    background: #323131;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-size: 16px;
+}
+.orange{
+    background: orange;
+    font-size: 20px;
+    font-weight: bold;
+}
+.grey{
+    background: darkgrey;
+    font-family: "sans-serif";
+    font-weight: bold;
+    font-size: 18px;
+}

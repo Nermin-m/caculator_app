@@ -1,0 +1,13 @@
+.screen {
+    background-color: black;
+display: flex;
+    position: relative;
+    top: 88px;
+
+    width:243px;
+height: 50px;
+    align-items: end;
+    font-size: 31px;
+    font-family: cursive;
+    color: white;
+}
