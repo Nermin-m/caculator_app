@@ -1,13 +1,14 @@
 .main {
     box-sizing: border-box;
      background: #181818;
+    position: absolute;
     height: 100vh;
-    background-image: url("./component/caculator/img/maxresdefault.jpg");
-    background-repeat: no-repeat;
-background-position: center;
-    box-sizing: border-box;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 50px;
     margin: 0;
-    padding: 0;
 }
 
 

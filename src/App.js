@@ -4,6 +4,7 @@ import Screen from "./component/caculator/screen";
 import Keyboard from "./component/caculator/keyboard";
 import Key from "./component/caculator/key";
 import style from './app.module.css';
+import image from './component/caculator/img/mhdc3tua-apple-iphone-11-64gb-beyaz-mhdc3tua-637610877233906011.webp'
 
 function App() {
     return (
@@ -33,6 +34,8 @@ function App() {
                     <Key type={'operator'} color={'color'} value={'='} />
                 </Keyboard>
             </Main>
+            <div style={{color:'white',fontSize:'50px',fontFamily:'monospace',width:'700px'}}>Iphone Caculator App (React/React-ContextApi-React Hooks)</div>
+            <div><img src={image} style={{width:'500px',height:'600px'}}/></div>
         </div>
     );
 }

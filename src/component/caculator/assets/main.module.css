@@ -4,12 +4,11 @@
     border-radius:50px ;
     padding: 10px;
     display: flex;
+    background: black;
+    border:3px solid white;
     justify-content: space-around;
     align-items: end;
     flex-direction: column;
-    position: absolute;
-    left: 390px;
-    top: 200px;
     gap: 8px;
 
 }

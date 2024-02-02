@@ -3,8 +3,8 @@
 display: flex;
     position: relative;
     top: 88px;
-
     width:243px;
+    overflow:hidden ;
 height: 50px;
     align-items: end;
     font-size: 31px;
